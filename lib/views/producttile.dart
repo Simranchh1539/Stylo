@@ -12,8 +12,8 @@ class ProductTile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 320,
-      width: 200,
+      height: 330,
+      width: 220,
       child: Card(
         elevation: 2,
         child: Padding(
@@ -33,7 +33,7 @@ class ProductTile extends StatelessWidget {
                     child: Image.network(
                       product.imageLink,
                       fit: BoxFit.cover,
-                      height: 180,
+                      height: 170,
                     ),
                   ),
                   Positioned(
