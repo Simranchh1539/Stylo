@@ -18,16 +18,16 @@ It has two main pages:
   1. User can view products in two ways list view and grid view.
   2. User can add items into cart
   3. User can also mark items favourite.
-  
+
 ## Screenshots
 
-![WhatsApp Image 2022-03-28 at 16 49 51](https://user-images.githubusercontent.com/100132569/160387722-57cbaf02-26d7-4dbd-b82c-9fa3cafc43c6.jpeg)
-![WhatsApp Image 2022-03-28 at 16 49 51 (1)](https://user-images.githubusercontent.com/100132569/160388167-e0378bbe-55ca-448e-bd87-5937c185e810.jpeg)
-![WhatsApp Image 2022-03-28 at 16 49 51 (2)](https://user-images.githubusercontent.com/100132569/160388105-52ea1fd0-c1f1-48a6-92ef-23897a6b59b2.jpeg)
-![WhatsApp Image 2022-03-28 at 16 49 51 (3)](https://user-images.githubusercontent.com/100132569/160387845-62029420-db47-4ec2-8955-f4cc09ffc1d2.jpeg)
+![Screenshot1](https://user-images.githubusercontent.com/100132569/160414533-f3936101-ce6d-4f3d-b9d0-8720a7152415.png)     ![Screenshot_1648461328](https://user-images.githubusercontent.com/100132569/160414624-98556889-58f6-4d1a-bf4b-2ca2c64f43da.png)
 
 
-## Videos
+![Screenshot3](https://user-images.githubusercontent.com/100132569/160414738-3aeebc95-845e-480b-a5c3-ff16bd2758ac.png)               ![Screenshot4](https://user-images.githubusercontent.com/100132569/160414760-396564a1-d5e6-4946-b29f-6cd183a50b98.png)
+
+
+## Demo
 
 https://user-images.githubusercontent.com/100132569/160387533-15798424-c709-454a-8dd1-59a460969f64.mp4
 
