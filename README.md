@@ -9,9 +9,9 @@ It has two main pages:
    
 ## Packages Used:
   
-  1. http
-  2. get
-  3. flutter_staggered_grid_view
+  1. http (https://pub.dev/packages/http/versions/0.13.3)
+  2. get  (https://pub.dev/packages/get/versions/4.1.4)
+  3. flutter_staggered_grid_view (https://pub.dev/packages/flutter_staggered_grid_view/versions/0.3.2)
   
 ## Features:
 
